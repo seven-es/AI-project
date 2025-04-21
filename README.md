@@ -36,7 +36,7 @@ In this project :
      - Reorganized data into a tidy format
 
 4. **💾 Update the Data Store**
-   - Saved cleaned datasets in appropriate file formats (e.g., `.csv`, `.pkl`)
+   - Saved cleaned datasets in appropriate file format .csv
    - Organized files and documented changes for reproducibility
 
 5. **📊 Exploratory Data Analysis (EDA)**
