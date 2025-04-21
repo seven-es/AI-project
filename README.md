@@ -6,7 +6,7 @@ This project demonstrates the full data wrangling workflow — from gathering me
 
 ## 📌 Project Overview
 
-In this project, we:
+In this project :
 
 - Gathered two related datasets using different data acquisition methods
 - Identified and assessed quality and tidiness issues
