@@ -25,24 +25,23 @@ In this project :
 2. **🔍 Assess Data for Quality and Tidiness**
    - Evaluated structure, consistency, and completeness
    - Identified:
-     - Missing or inconsistent values
+     - Missing or inconsistent values  
      - Tidiness violations such as multiple tables or variables stored in columns
 
 3. **🧼 Clean the Data**
    - Resolved both quality and tidiness issues:
-     - Handled missing values
-     - Standardized formats
-     - Merged datasets appropriately
+     - Handled missing values  
+     - Standardized formats  
+     - Merged datasets appropriately  
      - Reorganized data into a tidy format
 
 4. **💾 Update the Data Store**
-   - Saved cleaned datasets in appropriate file format .csv
+   - Saved cleaned datasets in appropriate file format (e.g., `.csv`)
    - Organized files and documented changes for reproducibility
 
 5. **📊 Exploratory Data Analysis (EDA)**
    - Performed visual and statistical analysis
-   - Created charts and summaries to answer a focused research question
-
+   - Created charts and summaries to answer a focused research questi
 ---
 
 ## 📈 Project Goals
@@ -55,9 +54,26 @@ By the end of this project, you will have:
 
 ---
 
-## 🐍 Requirements
+## 🧪 How to Run
 
-To run the notebook, make sure you have Python 3.7+ and install the required libraries:
+🐍 Make sure you have **Python 3.7 or newer** installed, then install all required packages:
 
-```bash
-pip install -r requirements.txt
+1. **Clone this repository**
+
+   Open your terminal and run:
+
+   ```bash
+   git clone https://github.com/seven-es/Data-Wrangling-Project.git
+   cd Data-Wrangling-Project
+
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+3. Install dependencies
+
+   Place the dataset file  in the root directory of the project
+
+4. Run the script
+   ```bash
+    Data_Wrangling_Project_Starter.py
